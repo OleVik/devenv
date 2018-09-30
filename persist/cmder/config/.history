@@ -1,0 +1,43 @@
+%PATH%
+%CMDER_ROOT%
+echo %PATH%
+echo %CMDER_ROOT%
+where composer
+C:\Scoop\shims\composer.cmd --version
+cd C:/Scoop/persist/php/cli
+cd conf.d
+touch custom.ini
+where touch
+scoop install putty
+scoop install putty
+scoop install cacert
+%PATH%
+echo %PATH%
+scoop list
+where touch
+scoop install git-with-openssh
+scoop install imagemagick graphicsmagick-q16
+scoop install yubico-piv-tool yubikey-personalization nomacs gpg4win firefox
+scoop install git-with-openssh
+scoop install imagemagick graphicsmagick-q16
+scoop install yubico-piv-tool yubikey-personalization nomacs gpg4win firefox
+where php
+C:/caddy/php/php.exe --version
+php --ini
+php --version
+%PATH%
+php --version
+cd C:/Caddy
+caddy
+ping 8.8.8.8
+ping 1.1.1.1
+where jupyter
+where conda
+conda install -c conda-forge plotnine
+conda install -c mizani
+conda install -c conda-forge mizani
+ping 1.1.1.1
+where conda
+conda install -c r r-irkernel
+where jupyter
+jupyter notebook

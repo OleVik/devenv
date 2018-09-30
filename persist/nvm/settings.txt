@@ -1,0 +1,3 @@
+root: C:\Scoop\persist\nvm\nodejs
+arch: 64
+proxy: none

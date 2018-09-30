@@ -1,0 +1,49 @@
+{
+    "terminal.integrated.shell.windows": "..\\..\\..\\shims\\git-bash.exe",
+    "git.path": "..\\..\\..\\shims\\git.exe",
+    "php.validate.executablePath": "..\\..\\..\\shims\\php.exe",
+    "php.validate.run": "onType",
+    "composer.executablePath": "..\\..\\..\\shims\\composer.cmd",
+    "phpformatter.composer": true,
+    "phpcs.standard": "PSR1,PSR2",
+    "window.reopenFolders": "all",
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.editor.closeOnFileDelete": false,
+    "files.autoSave": "onWindowChange",
+    "crane.showStatusBarBugReportLink": false,
+    "crane.enableErrorTelemetry": false,
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "window.menuBarVisibility": "default",
+    "workbench.activityBar.visible": true,
+    "workbench.statusBar.visible": true,
+    "files.eol": "\n",
+    "beautify.language": {
+        "js": {
+            "type": [
+                "javascript",
+                "json"
+            ],
+            "filename": [
+                ".jshintrc",
+                ".jsbeautify"
+            ]
+        },
+        "css": [
+            "css",
+            "scss"
+        ],
+        "html": [
+            "htm",
+            "html"
+        ]
+    },
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "*.twig": "twig"
+    },
+    "editor.tabSize": 2
+}
